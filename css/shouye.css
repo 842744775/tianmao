@@ -1,0 +1,361 @@
+/*
+* @Author: Wang Sath
+* @Date:   2017-09-03 17:31:34
+* @Last Modified by:   Wang Sath
+* @Last Modified time: 2017-09-04 00:46:30
+*/
+@font-face {
+  font-family: 'iconfont';  /* project id 404072 */
+  src: url('http://at.alicdn.com/t/font_404072_xu2g51ivjewgsyvi.eot');
+  src: url('http://at.alicdn.com/t/font_404072_xu2g51ivjewgsyvi.eot?#iefix') format('embedded-opentype'),
+  url('http://at.alicdn.com/t/font_404072_xu2g51ivjewgsyvi.woff') format('woff'),
+  url('http://at.alicdn.com/t/font_404072_xu2g51ivjewgsyvi.ttf') format('truetype'),
+  url('http://at.alicdn.com/t/font_404072_xu2g51ivjewgsyvi.svg#iconfont') format('svg');
+}
+.iconfont {
+    font-family:"iconfont" !important;
+    font-size:16px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+#toubu{
+	width: 100%;
+	height: 40px;
+	background-color: #f2f2f2;
+	
+}
+.toubu-nei{
+	width: 1226px;
+	height: 40px;
+	background-color: #f2f2f2;
+	margin: 0 auto;
+}
+.toubu-zuo{
+	height: 40px;
+	background-color: #f2f2f2;
+	float: left;
+}
+.toubu-wenzi{
+	float:left;
+	margin-left: 7px;
+	line-height: 40px;
+	font-size: 12px;
+	color: #b0b0b0
+}
+.toubu-wenzi1{
+	margin-left: 7px
+}
+.gouwuche{
+	margin-left: 10px;
+	width: 103px;
+	height: 40px;
+	background-color: #424242;
+	float: left;
+	padding-left: 17px;
+	font-size: 12px;
+	color: #b0b0b0;
+	line-height: 40px;
+}
+.toubu-you{
+	height: 40px;
+	background-color: #f2f2f2;
+	float: right;
+}
+.toubu-wai{
+	width: 1226px;
+	height: 130px;
+	margin: 0 auto;
+}
+.logo{
+	height: 130px;
+	width: 290px;
+	position: absolute;
+	z-index: 100000;
+	margin-left: -45px;}
+.toubu-wenzi a{color: #b0b0b0;cursor: auto}
+.toubu-wenzi a{color: #b0b0b0;}
+.toubu-wenzi a:link{color: #b0b0b0;}
+.toubu-wenzi a:visited{color: #b0b0b0}
+.toubu-wenzi a:hover{color: blue}
+.toubu-wenzi a:active{color: green}
+.fenlei{
+	width: 100%;
+	height: 40px;
+	background-color: red;
+	margin: 0px;
+	padding-top: 
+}
+.fenleiwenzi{
+	width: 200px;
+	float: left;
+	height: 36px;
+	color: #fff;
+	background-color: #e22127;
+	}
+.fenleiwenzi h1{
+	margin-top: ;
+}
+#sousuo{
+	width: 1230px;
+	height: 130px;
+	margin: 0 auto;}
+.sousuo-img{
+	width: 200px;
+	height: 130px;
+	float: left;
+	margin-left: 20px
+}
+#daohang{
+	width: 100%;
+	height: 36px;
+	background-color: #ff0036;
+	margin: 0 auto;
+}
+.daohang-neibu{
+	width: 1230px;
+	height: 36px;
+	margin: 0 auto;
+}
+.daohang-neibu-zuo{
+	width: 190px;
+	height: 35px;
+	background-color: #e22127;
+	float: left;
+	padding-left: 10px;
+}
+.daohang-neibu-zuo i{
+	font-size: 16px;
+	color: #fff;
+	font-weight: bolder;
+	float: left;
+	line-height: 36px;
+	margin-right: 5px;
+}
+.daohang-neibu-zuo h1{
+	font-size: 18px;
+	color: #fff;
+	font-weight: lighter;
+	float: left;
+	line-height: 36px;
+	margin-left: 30px
+
+}
+.daohang-neibu-you{
+	height: 36px;
+	float: left;
+	padding-left: 20px;
+
+
+}
+.daohang-neibu-you-zi{
+	height: 36px;
+	float: left;
+
+}
+.daohang-neibu-you-zi i{
+	font-size: 16px;
+	color: #fff;
+	font-weight: bolder;
+	float: left;
+	line-height: 36px;
+	margin-right: 5px;
+}
+.daohang-neibu-you-zi h1{
+	font-size: 18px;
+	color: #fff;
+	font-weight: lighter;
+	float: left;
+	line-height: 36px;
+	margin: 0 10px;
+}
+#banner{
+	width:1230px;
+	height: 500px;
+	background-color: #333;
+	position: relative;
+	margin: 0 auto;
+}
+.banner-img{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+.banner-neibu{
+	width: 1230px;
+	height: 500px;
+	display: inline-block;
+	position: absolute;
+}
+.banner-list{
+	width: 200px;
+	height: 500px;
+	background-color: rgba(96, 96, 96, 0.4);
+	position: absolute;
+}
+.banner-list-1{
+	width: 190px;
+	height: 30px;
+	background-color: rgba(0, 0, 0, 0.1);
+	padding-left: 10px;
+	margin-top: 2px
+}
+.banner-list-1 i{
+	font-size: 16px;
+	font-weight: lighter;
+	color: #000;
+	float: left;
+	margin-right: 5px;
+	line-height: 31.25px;
+
+}
+.banner-list-1 h1{
+	font-size: 14px;
+	font-weight: lighter;
+	color: #000;
+	float: left;
+	line-height: 31.25px;
+}
+#list{
+	width: 1230px;
+	height: 477px;
+	background-color: #f5f5f5;
+	margin: 0 auto;
+	margin-top: 30px;
+}
+.list-1{
+	width: 238px;
+	height: 477px;
+	background-color: green;
+	float: left;
+	margin-right: 10px;
+}
+.list-1-s{
+	width: 238px;
+	height: 36px;
+	background-color:#ff0036;
+}
+.list-1-s i{
+	font-size: 18px;
+	color: #fff;
+	line-height: 36px;
+	float: left;
+}
+.list-1-s h1{
+	font-size: 18px;
+	color: #fff;
+	line-height: 36px;
+	float: left;
+}
+.list-1-z{
+	width: 238px;
+	height: 201px;
+	background-color: #ffffff;
+	padding-top: 19px;
+
+}
+.list-1-z-zizi-1{
+	font-size: 22px;
+	font-weight: bold;
+	color: #fff;
+	text-align: center;
+}
+.list-1-z-zizi-2{
+	font-size: 14px;
+	font-weight: lighter;
+	color: #888;
+	margin-top: 5px;
+	text-align: center;
+}
+.list-1-z-img{
+	width: 133px;
+	height: 133px;
+	background-color: blue;
+	margin: 0 auto;
+}
+.list-1-x{
+	margin-top: 1px;
+	/* width: 238px;
+	height: 196px;
+	background-color: goldenrod;
+	padding-top: 19px; */
+}
+.img-zj{
+	width: 100%;
+	height: 90px;
+
+}#jiewei{
+	width: 100%;
+	height: 400px;
+	margin: 0 auto;
+	border-top: 1px #333 solid;
+}
+.jieshu-neibu{
+	width: 1190px;
+	height: 400px;
+	margin: 0 auto;
+}
+.jieshu-neibu-s{
+	width: 1190px;
+	height: 100px;
+	padding: 25px 0px;
+}
+.jieshu-neibu-s-1{
+	width: 257px;
+	height: 100px;
+	float: left;
+	padding-left: 40px;
+}
+.jieshu-neibu-s-1 i{
+	font-size: 70px;
+	font-weight: bold;
+	float: left;
+	line-height: 100px;
+
+}
+.jieshu-neibu-s-1 h1{
+	font-size: 22px;
+	font-weight: bold;
+	margin-top: 25px;
+
+}
+.jieshu-neibu-s-1 h2{
+	font-size: 18px;
+	font-weight: lighter;
+	color: red;
+	margin-top: 1px;
+
+}
+.jieshu-neibu-zj{
+	width: 1190px;
+	height: 190px;
+	padding-top: 22px;
+	border-top: 1px #333 solid;
+	color: red
+
+}
+.jieshu-neibu-zj-1{
+	width: 186px;
+	height: 90px;
+	float: left;
+	padding-left: 52px;
+}
+.jieshu-neibu-zj-1 h1{
+	font-size: 16px;
+	font-weight: bold;
+	color: #333;
+	line-height: 30px;
+
+}
+.jieshu-neibu-zj-1 h2{
+	font-size: 12px;
+	font-weight: bold;
+	color: #333;
+	
+	
+}
+.ma-img{
+	width: 105px;
+	height: 105px;
+}
