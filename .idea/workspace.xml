@@ -17,8 +17,8 @@
       <file leaf-file-name="shouye.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/shouye.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="764" column="28" lean-forward="false" selection-start-line="764" selection-start-column="28" selection-end-line="764" selection-end-column="28" />
+            <state relative-caret-position="382">
+              <caret line="144" column="25" lean-forward="false" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -27,8 +27,8 @@
       <file leaf-file-name="shouye.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/shouye.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23085">
-              <caret line="855" column="1" lean-forward="false" selection-start-line="855" selection-start-column="1" selection-end-line="855" selection-end-column="1" />
+            <state relative-caret-position="315">
+              <caret line="907" column="13" lean-forward="false" selection-start-line="907" selection-start-column="13" selection-end-line="907" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
       <file leaf-file-name="shouye.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/shouye.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-710">
+            <state relative-caret-position="243">
               <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding />
             </state>
@@ -66,6 +66,7 @@
       <find>list</find>
       <find>jiewei</find>
       <find>active</find>
+      <find>分类</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -83,7 +84,7 @@
         <option value="$PROJECT_DIR$/wwwww.html" />
         <option value="$PROJECT_DIR$/yidonglunbo.html" />
         <option value="$PROJECT_DIR$/shouye.js" />
-        <option value="$PROJECT_DIR$/../../lianxi2.html" />
+        <option value="$USER_HOME$/lianxi2.html" />
         <option value="$PROJECT_DIR$/css/shouye.css" />
         <option value="$PROJECT_DIR$/shouye.html" />
       </list>
@@ -116,24 +117,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="tianmao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tianmao" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tianmao" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="天猫" type="b2602c69:ProjectViewProjectNode" />
+              <item name="天猫" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,11 +169,12 @@
       <workItem from="1508379787846" duration="412000" />
       <workItem from="1508380231199" duration="4991000" />
       <workItem from="1508412140228" duration="63000" />
+      <workItem from="1508720699545" duration="795000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38619000" />
+    <option name="totallyTimeSpent" value="39414000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -224,6 +221,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/shouye.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/shouye.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23085">
+          <caret line="855" column="1" lean-forward="false" selection-start-line="855" selection-start-column="1" selection-end-line="855" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shouye.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/shouye.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19575">
@@ -328,28 +349,28 @@
     <entry file="file://$PROJECT_DIR$/../../../中国移动官方网站_files/richinfo_search.js.下载" />
     <entry file="file://$PROJECT_DIR$/yidonglunbo.html" />
     <entry file="file://$PROJECT_DIR$/affter.html" />
-    <entry file="file://$PROJECT_DIR$/../../lianxi2.html" />
+    <entry file="file://$USER_HOME$/lianxi2.html" />
     <entry file="file://$PROJECT_DIR$/../dami/shouye.html" />
-    <entry file="file://$PROJECT_DIR$/css/shouye.css">
+    <entry file="file://$PROJECT_DIR$/shouye.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23085">
-          <caret line="855" column="1" lean-forward="false" selection-start-line="855" selection-start-column="1" selection-end-line="855" selection-end-column="1" />
+        <state relative-caret-position="243">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/shouye.js">
+    <entry file="file://$PROJECT_DIR$/css/shouye.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-710">
-          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="315">
+          <caret line="907" column="13" lean-forward="false" selection-start-line="907" selection-start-column="13" selection-end-line="907" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/shouye.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="764" column="28" lean-forward="false" selection-start-line="764" selection-start-column="28" selection-end-line="764" selection-end-column="28" />
+        <state relative-caret-position="382">
+          <caret line="144" column="25" lean-forward="false" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="25" />
           <folding />
         </state>
       </provider>

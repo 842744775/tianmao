@@ -1,8 +1,8 @@
 /*
 * @Author: Wang Sath
 * @Date:   2017-09-03 17:31:34
-* @Last Modified by:   Wang Sath
-* @Last Modified time: 2017-10-22 19:18:37
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-09-12 10:52:22
 */
 @font-face {
   font-family: 'iconfont';  /* project id 404072 */
@@ -896,7 +896,7 @@ input{
 }
 .dbwz{
 	position: absolute;
-	left:20%;
+	left:15%;
 	line-height: 60px;
 	font-size: 25px;
 }
@@ -905,7 +905,7 @@ input{
 }
 .dbss{
 	position: absolute;
-	right: 25%;
+	right: 20%;
 	color: white;
 	top: 30%;
 	font-size: 20px
@@ -924,3 +924,4 @@ input{
 	position: absolute;
 	top: 35%;
 }
+
